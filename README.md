@@ -1,5 +1,3 @@
-https://github.com/arshabs12/Arsha-s-Portfolio/blob/main/BlinkIt.png
-
 # 🛒 Blinkit Retail Sales & Outlet Performance Dashboard
 
 ## 📌 Business Problem
