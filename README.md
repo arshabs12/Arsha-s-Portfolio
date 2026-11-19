@@ -8,8 +8,7 @@ Blinkit (*India's Last Minute App*) operates in a high-velocity quick-commerce e
 * **Data Preparation:** Power Query for data structuring and metric aggregation
 
 ## 📊 Dashboard Preview
-![Blinkit Sales Dashboard]
-Image : https://github.com/arshabs12/Arsha-s-Portfolio/blob/main/BlinkIt.png
+Blinkit Sales Dashboard =: https://github.com/arshabs12/Arsha-s-Portfolio/blob/main/BlinkIt.png
 
 ## 🎯 Core KPIs Tracked
 * **Total Sales:** 1,201,681 (~1.20M)
